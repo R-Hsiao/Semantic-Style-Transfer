@@ -151,7 +151,9 @@ The preprocessing procedure resizes the image and randomly crops it to 224 × 22
 
 ## Pretrained Models
 
-The pretrained VGG model and trained style transfer checkpoints are not included in this repository.
+If you want to use the pre-trained model to perform style transfer, please download the pre-trained files and VGG model from Google Drive as follows:
+- [VGG19](https://drive.google.com/file/d/1nJt6nnEIjBfQMzbH9__TrLJfmHqkaHjy/view)
+- [Pre-trained model](https://drive.google.com/drive/folders/1wAp7SPfwEC_QyGXkwXRqTc3ZUqYcuhkk?usp=sharing)
 
 Place the required model files in:
 
@@ -161,8 +163,6 @@ pre_trained_models/
 └── checkpoint/
     └── checkpoint_40000_epoch.pkl
 ```
-
-The VGG model is required during training, while the trained checkpoint is required during inference.
 
 ## Training
 
