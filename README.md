@@ -282,14 +282,3 @@ A successful inference produces a stylized image using the automatically selecte
 
 Future versions of this repository will include qualitative examples and comparison results.
 
-## Citation
-
-This repository is associated with a master's thesis on semantic-aware arbitrary image style transfer.
-
-The citation information will be added after the thesis/publication information is finalized.
-
-## Acknowledgements
-
-This project builds upon concepts and components from S2WAT, AdaAttN/AdaFormer, DINOv2, CLIP, and OWL-ViT.
-
-Please refer to the corresponding original works when using or extending this project.
