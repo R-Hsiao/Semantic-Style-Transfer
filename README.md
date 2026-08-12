@@ -33,7 +33,6 @@ The overall pipeline consists of two main components:
 ```text
 Semantic-Style-Transfer/
 ├── README.md
-├── LICENSE
 ├── requirements.txt
 ├── train.py
 ├── test.py
