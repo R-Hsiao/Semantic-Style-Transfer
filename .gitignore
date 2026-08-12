@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Datasets
+input/Train/
+input/Test/
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+pre_trained_models/checkpoint/
+pre_trained_models/save_checkpoint/
+
+# Outputs
+output/
+outputs/
+results/
+runs/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
